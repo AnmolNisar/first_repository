@@ -1,4 +1,4 @@
 # first_repository
 this is my first repository.
 <br>
-Author - Anmol Nisar
+Author - Anmol Nisar (first author)
